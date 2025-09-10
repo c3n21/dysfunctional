@@ -29,7 +29,7 @@
 		"format": "biome format .",
 		"format:fix": "biome format --write .",
 		"tsc": "tsc --noEmit",
-		"test": "bun test",
+		"test": "vitest",
 		"test:watch": "bun test --watch",
 		"test:coverage": "bun test --coverage",
 		"release": "bumpp --commit --push --tag",
